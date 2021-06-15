@@ -90,7 +90,5 @@ axis(1, at=1:5,lab=c(10,50,100,1000,5000))
 axis(2, ylim = c(0,0.1))
 title(xlab="n", col.lab="black")
 
-https://user-images.githubusercontent.com/83544107/122072526-9d704780-ce32-11eb-9cf9-a4f313fd206c.png
-
 # 시행 횟수가 커질수록 차이가 거의 없어진다는 것을 알 수 있다. 
 # 따라서 시행 횟수가 커질수록 이론값과 추정 값이 비슷한 결과를 가지게 된다. 
